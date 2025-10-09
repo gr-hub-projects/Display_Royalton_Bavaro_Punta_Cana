@@ -3,18 +3,10 @@
     "type": "JSON",
     "content": [
       {
-        "id": "2L8MFG",
-        "Flight": "WN0783",
-        "PickupDate": "2025-10-08",
-        "PickupTime": "10:10",
-        "HotelName": "Royalton Bavaro Resort & Spa",
-        "HotelNumber": 13689
-      },
-      {
-        "id": "87PKFB",
-        "Flight": "B60168",
-        "PickupDate": "2025-10-08",
-        "PickupTime": "10:05",
+        "id": "L7VLR4",
+        "Flight": "AA2043",
+        "PickupDate": "2025-10-09",
+        "PickupTime": "12:58",
         "HotelName": "Royalton Bavaro Resort & Spa",
         "HotelNumber": 13689
       }
