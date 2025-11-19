@@ -3,50 +3,34 @@
     "type": "JSON",
     "content": [
       {
-        "id": "18LKXM",
-        "Flight": "UA1664",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "11:30",
+        "id": "2K6QCH",
+        "Flight": "B61077",
+        "PickupDate": "2025-11-20",
+        "PickupTime": "14:00",
         "HotelName": "Royalton Bavaro Resort & Spa",
         "HotelNumber": 13689
       },
       {
-        "id": "443D7M",
-        "Flight": "DL1836",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "12:10",
+        "id": "2LJ275",
+        "Flight": "B61077",
+        "PickupDate": "2025-11-20",
+        "PickupTime": "14:00",
         "HotelName": "Royalton Bavaro Resort & Spa",
         "HotelNumber": 13689
       },
       {
-        "id": "8HF8M9",
-        "Flight": "AA2304",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "09:25",
+        "id": "7BNT12",
+        "Flight": "AA1460",
+        "PickupDate": "2025-11-20",
+        "PickupTime": "14:22",
         "HotelName": "Royalton Bavaro Resort & Spa",
         "HotelNumber": 13689
       },
       {
-        "id": "G8M362",
-        "Flight": "UA1463",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "13:55",
-        "HotelName": "Royalton Bavaro Resort & Spa",
-        "HotelNumber": 13689
-      },
-      {
-        "id": "4232145",
-        "Flight": "AC1791",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "09:25",
-        "HotelName": "Royalton Bavaro Resort & Spa",
-        "HotelNumber": 13689
-      },
-      {
-        "id": "PPW7WR",
-        "Flight": "B61168",
-        "PickupDate": "2025-11-19",
-        "PickupTime": "11:45",
+        "id": "THQRYP",
+        "Flight": "WN0783",
+        "PickupDate": "2025-11-20",
+        "PickupTime": "12:15",
         "HotelName": "Royalton Bavaro Resort & Spa",
         "HotelNumber": 13689
       }
