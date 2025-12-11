@@ -4,7 +4,7 @@
     "content": [
       {
         "id": "F4ZNGX",
-        "Flight": "AA0921",
+        "Flight": "AA921",
         "PickupDate": "2025-12-12",
         "PickupTime": "09:28",
         "HotelName": "Royalton Bavaro Resort & Spa",
@@ -20,7 +20,7 @@
       },
       {
         "id": "N56YGS",
-        "Flight": "AC0935",
+        "Flight": "AC935",
         "PickupDate": "2025-12-12",
         "PickupTime": "14:20",
         "HotelName": "Royalton Bavaro Resort & Spa",
